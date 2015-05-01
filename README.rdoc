@@ -1,28 +1,9 @@
-== README
+# Skillshare Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Following the lessons on [Skillshare](http://skl.sh/1owmiDG) on creating a simple Tumblr style blog.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
+Notes on the process:
+
+- During the end I had a problem with the `pg gem` but had help via [Twitter](http://twitter.com/sulcalibur) [here](https://twitter.com/Sulcalibur/status/594090534282665984)
